@@ -12,7 +12,7 @@ Contains the following content:
 * Walks the user through the exact steps of connecting Gitbash to your BitBucket repository.
 
 This was originally created out of frustration during a particularly annoying college course.
-
+\\
 
 **2. Minecraft Server Hosting: Port Forwarding with Metronet & Eero Routers**\
 *A guide that shows Metronet users who are unfamiliar with server management how to open a port on your Eero router and host a server.*
