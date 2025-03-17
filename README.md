@@ -1,7 +1,8 @@
 # Tutorials
 Creating tutorials for things with poorly written instructions.
 
-**1. BitBucket Setup Guide** - *Detailed guide for beginners using Windows machines that walks them through the process of creating a BitBucket repository.*
+**1. BitBucket Setup Guide**\
+*Detailed guide for beginners using Windows machines that walks them through the process of creating a BitBucket repository.*
 
 Contains the following content:
 * Definitions of common terms used throughout the guide.
@@ -13,7 +14,8 @@ Contains the following content:
 This was originally created out of frustration during a particularly annoying college course.
 
 
-**2. Minecraft Server Hosting: Port Forwarding with Metronet & Eero Routers** - *A guide that shows Metronet users who are unfamiliar with server management how to open a port on your Eero router and host a server.*
+**2. Minecraft Server Hosting: Port Forwarding with Metronet & Eero Routers**\
+*A guide that shows Metronet users who are unfamiliar with server management how to open a port on your Eero router and host a server.*
 
 Contains the following content:
 * Definitions of common terms used throughout the guide.
