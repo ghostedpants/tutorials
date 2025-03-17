@@ -8,10 +8,13 @@
 </head>
 <body>
     <div class="container">
-        <h1>Tutorials</h1>
+        <h1>Welcome to My Tutorials</h1>
         <div class="buttons">
             <a href="bitbucket-setup.html" class="btn">BitBucket Setup Guide</a>
             <a href="minecraft-server-hosting.html" class="btn">Minecraft Server Hosting</a>
+        </div>
+        <div class="github-link">
+            <p>Check out more tutorials on my GitHub: <a href="https://github.com/ghostedpants/tutorials" target="_blank">github.com/ghostedpants/tutorials</a></p>
         </div>
     </div>
 </body>
