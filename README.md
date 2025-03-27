@@ -1,5 +1,5 @@
 # Tutorials
-Creating tutorials for things with poorly written instructions.
+Creating tutorials for things that probably need better tutorials.
 
 **1. BitBucket Setup Guide**\
 *Detailed guide for beginners using Windows machines that walks them through the process of creating a BitBucket repository.*
